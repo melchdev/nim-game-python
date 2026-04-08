@@ -1,9 +1,9 @@
 # nim-game-python
 A Python implementation of the classic Nim game, built as a learning project with clean structure and documentation.
 
-<p align="center">
+<!-- <p align="center">
   <img src="assets/pythonim-logo.png" width="300"/>
-</p>
+</p> -->
 
 ## Requirements
 
