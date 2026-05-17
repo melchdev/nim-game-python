@@ -3,4 +3,4 @@ A Python implementation of the classic Nim game, built as a learning project wit
 
 ## Requirements
 
-- Python 3.10+
+- Python 3.10+.
